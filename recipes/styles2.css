@@ -1,5 +1,22 @@
-#list {
-    font-size: 100px;
-    border-color: red;
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    font-weight: 800;
+    border: 5px solid olive;
+    width: 100px;
+}
 
+li {
+    border: 1px solid rgb(122, 122, 27);
+}
+
+.ing {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.imgs {
+    width: 260px;
+    text-align: center;
+    border-top: 1px solid black;
 }
